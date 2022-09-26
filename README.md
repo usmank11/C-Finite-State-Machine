@@ -1,5 +1,5 @@
 # C-Finite-State-Machine
-Floating point number verification using a finite state machine (FSM) in C
+Floating point number verification using a finite state machine (FSM) implemented in C
 
 To compile run: gcc -O3 -o fsm_verification fsm.c
 
