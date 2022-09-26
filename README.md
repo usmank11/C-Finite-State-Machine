@@ -4,7 +4,11 @@ Floating point number verification using a finite state machine (FSM) in C
 To compile run: gcc -O3 -o fsm_verification fsm.c
 
 Tests:
+<br />
 ![alt text](https://github.com/usmank11/C-Finite-State-Machine/blob/main/tests/test1.png)
+<br />
 ![alt text](https://github.com/usmank11/C-Finite-State-Machine/blob/main/tests/test2.png)
+<br />
 ![alt text](https://github.com/usmank11/C-Finite-State-Machine/blob/main/tests/test3.png)
+<br />
 ![alt text](https://github.com/usmank11/C-Finite-State-Machine/blob/main/tests/test4.png)
