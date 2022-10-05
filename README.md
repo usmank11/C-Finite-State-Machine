@@ -13,6 +13,4 @@ Tests:
 <br />
 ![alt text](https://github.com/usmank11/C-Finite-State-Machine/blob/main/tests/test2.png)
 <br />
-![alt text](https://github.com/usmank11/C-Finite-State-Machine/blob/main/tests/test3.png)
-<br />
 ![alt text](https://github.com/usmank11/C-Finite-State-Machine/blob/main/tests/test4.png)
